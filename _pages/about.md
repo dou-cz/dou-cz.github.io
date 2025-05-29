@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-# new try
+## new try
 刚搞个新的网站，有点新奇，争取以后把它完善完善。
